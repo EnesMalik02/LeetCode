@@ -8,4 +8,4 @@ def plusOne(self, digits):
 
     return digits
 
-print(plusOne("self", [4,3,2,1]))
+#print(plusOne("self", [4,3,2,1]))
